@@ -14,19 +14,19 @@ sidebar:
     # Sidebar links
     email: me@stephenkanyi.com
     phone: 000 000 0000
-    timezone: America/Cancun Timezone
+    timezone: UTC/GMT +2
     citizenship:
     website: stephenkanyi.com #do not add http://
     linkedin: stephen-kanyi
-    xing: alandoe
+    # xing: alandoe
     github: skanyi
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
     twitter: '@kws_root'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    stack-overflow: '6581665/kanyi' # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -54,12 +54,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Skilled DevOps Engineer with 5+ years of hands-on experience and automating,
+      and optimizing mission-critical deployments in AWS, leveraging configuration management,
+      CI/CD, and DevOps processes.
 education:
     title: Education
     info:
@@ -67,20 +64,15 @@ education:
         university: Jomo Kenyatta University
         time: 2012 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Graduated with Second Class Honors (Upper Division). My 4th year thesis was on 
+          analysis of heave metals in different soft drinks sold in different parts of Kenya. 
       
 experiences:
     title: Experiences
     info:
       - role: DevOps Engineer
         time: 2021 - Present
-        company: Amazon Web Services (AWS), CApe Town
+        company: Amazon Web Services (AWS), Cape Town
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -95,15 +87,16 @@ experiences:
             - Bullet point
       - role: Data Engr / DevOps Engr
         time: 2017 - 2021
-        company: Insurity SpatialKey Solutions, Remote
+        company: Andela - Data Engr/DevOps Engr (Outsourced to SpatialKey), Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          ● Shaped my team workflows, increasing the speed and quality of our deliveries
+           by incorporating automation on most of our workflows and created documentation around them.
+          ● Slashed the release process 75% by automating the configuration management
+           using Ansible playbooks and minimizing human errors.
+          ● Reduced the amount of time taken to update datasets for clients by half with
+           automation around manual and repetitive workflow.
+          ● Minimized the time we take to integrate third-party partners’ data with our 
+           system from around three weeks to one week with automation.
       - role: Software Developer
         time: 2016 - 2021
         company: Andela, Nairobi
