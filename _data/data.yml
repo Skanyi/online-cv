@@ -158,9 +158,8 @@ certifications:
       The followinng is a list of certificates I have been awarded
     certificates:
       - title: Deploy Python Application to Google Cloud with Docker and Kubernetes.
-        link: "https://medium.com/google-cloud/deploy-python-application-to-google-cloud-with-docker-and-kubernetes-db33ee9fbed3"
-        authors: Stephen Kanyi
-        conference: ""
+        cert: "aws-certified-solutions-architect-associate.png"
+
 
 publications:
     title: Publications

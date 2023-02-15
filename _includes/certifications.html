@@ -18,13 +18,11 @@
 
   {% for certificate in certifications.certificates %}
   <div class="item">
-    {% if certificate.link %}
-      <li><a href="{{ publication.link }}">{{ certificate.title }}</a></li>
+    {% if certificate.cert %}
+        <img class="cert" src="{{ site.baseurl }}/assets/images/{{ certificate.cert }}" alt="Certificate Image" />
     {% else %}
       <li>{{ certificate.title }}</li>
     {% endif %}
-    <div class="certificate-authors">{{ certificate.authors }}</div>
-    <div class="certificate-conference">{{ certificate.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
