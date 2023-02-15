@@ -157,8 +157,11 @@ certifications:
     intro: |
       The followinng is a list of certificates I have been awarded
     certificates:
-      - title: Deploy Python Application to Google Cloud with Docker and Kubernetes.
+      - title: Solution Architect Associate.
         cert: "aws-certified-solutions-architect-associate.png"
+      
+      - title: Solution Architect Professional.
+        cert: "aws-certified-solutions-architect-professional.png"
 
 
 publications:
