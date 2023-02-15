@@ -45,10 +45,7 @@ sidebar:
         - item: Football
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Game Drives
           link:
 
 career-profile:
@@ -74,40 +71,41 @@ experiences:
         time: 2021 - Present
         company: Amazon Web Services (AWS), Cape Town
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          I work as DevOps support Engineer focusing on containers technologies 
+          in AWS cloud. The services that I interact mostly with include but not 
+          limited to EKS, ECS, Batch and more. 
+            - Help AWS Customers setup ECS cluster to be able to scale depending on the workloads.
+            - Help AWS Customers setup up EKS (kubermetes) clusters to be able to secure and scale using
+              cluster Auto scaler as workload varies.
       - role: Data Engr / DevOps Engr
         time: 2017 - 2021
         company: Andela - Data Engr/DevOps Engr (Outsourced to SpatialKey), Remote
         details: |
-          ● Shaped my team workflows, increasing the speed and quality of our deliveries
-           by incorporating automation on most of our workflows and created documentation around them.
-          ● Slashed the release process 75% by automating the configuration management
-           using Ansible playbooks and minimizing human errors.
-          ● Reduced the amount of time taken to update datasets for clients by half with
-           automation around manual and repetitive workflow.
-          ● Minimized the time we take to integrate third-party partners’ data with our 
-           system from around three weeks to one week with automation.
+          At SpatialKey, I focused on automation workflows of different GIS datasets
+          extractions, transformation and Loadding (ETL) into our system for analysis. 
+          I also worked on deployment pipelines using Jenkins for the application and 
+          handled production deployment which was done on rotational basis. 
+            - Shaped my team workflows, increasing the speed and quality of our deliveries
+              by incorporating automation on most of our workflows and created documentation around them.
+            - Slashed the release process 75% by automating the configuration management
+              using Ansible playbooks and minimizing human errors.
+            - Reduced the amount of time taken to update datasets for clients by half with
+              automation around manual and repetitive workflow.
+            - Minimized the time we take to integrate third-party partners’ data with our 
+              system from around three weeks to one week with automation.
       - role: Software Developer
         time: 2016 - 2021
         company: Andela, Nairobi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          At Andela, I focused on improving the internal tooling architecture and deployment pipelines 
+          by breaking down the monolithic applicatin into microservices and deploying them to Google cloud 
+          kubernetes (GKE).
+            - Improved developer workflow, increased stability, and scalability of our systems by 
+              breaking up the monolithic apps into microservices using Docker containers and Kubernetes.
+            - Created and maintained fully automated CI/CD pipelines for code deployment using CircleCI 
+              Deploy and Travis.
+            - Actively managed and monitored cloud infrastructure on GCP, VMs, and RDS, including backups, 
+              patches, and scaling.
 projects:
     title: Projects
     intro: >
@@ -185,6 +183,15 @@ skills:
 
       - name: React
         level: 50%
+      
+      - name: AWS EKS and AWS ECS
+        level: 95%
+
+      - name: Ansible
+        level: 70%
+
+      - name: Elasticsearch, Logstash, and Kibana
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
