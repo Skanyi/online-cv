@@ -152,10 +152,20 @@ experiences:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+certifications:
+    title: Certifications
+    intro: |
+      The followinng is a list of certificates I have been awarded
+    certificates:
+      - title: Deploy Python Application to Google Cloud with Docker and Kubernetes.
+        link: "https://medium.com/google-cloud/deploy-python-application-to-google-cloud-with-docker-and-kubernetes-db33ee9fbed3"
+        authors: Stephen Kanyi
+        conference: ""
+
 publications:
     title: Publications
     intro: |
-      The following is a list of technical posts i have published in medium.
+      The following is a list of technical posts i have published on medium.
     papers:
       - title: Deploy Python Application to Google Cloud with Docker and Kubernetes.
         link: "https://medium.com/google-cloud/deploy-python-application-to-google-cloud-with-docker-and-kubernetes-db33ee9fbed3"
