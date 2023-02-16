@@ -106,20 +106,18 @@ experiences:
               Deploy and Travis.
             - Actively managed and monitored cloud infrastructure on GCP, VMs, and RDS, including backups, 
               patches, and scaling.
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Projects
+    intro: >
+      The following are some of the projects I have done.
+    assignments:
+      - title: OSSEC-ELK-Application-Servers-Setup
+        link: "https://github.com/Skanyi/OSSEC-ELK-Application-Servers-Setup"
+        tagline: "A SIEM setup that Aggragates logs to ELK and to help start ups monitors their infrastructure traffic"
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Kanyi Blog About Security
+        link: "https://skanyi.github.io/blog/cyber-security/"
+        tagline: "The following are some of the blog post I have written about Web Application Security."
 
 #       - title: Tempo
 #         link: "#"
