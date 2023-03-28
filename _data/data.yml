@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: me@stephenkanyi.com
+    email: stephenkanyi7@gmail.com
     phone: 000 000 0000
     timezone: UTC/GMT +2
     citizenship:
@@ -117,19 +117,7 @@ projects:
 
       - title: Kanyi Blog About Security
         link: "https://skanyi.github.io/blog/cyber-security/"
-        tagline: "The following are some of the blog post I have written about Web Application Security."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Some blog posts I have written about Web Application Security."
 
 # oss:
 #     title: OSS Contributions
