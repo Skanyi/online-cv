@@ -143,6 +143,9 @@ certifications:
     intro: |
       The followinng is a list of certificates I have been awarded
     certificates:
+      - title: (CKA) Certified Kubernetes Administrator.
+        cert: "certified-kubernetes-administrator.png"
+
       - title: Solution Architect Associate.
         cert: "aws-certified-solutions-architect-associate.png"
       
