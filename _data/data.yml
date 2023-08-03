@@ -146,6 +146,9 @@ certifications:
       - title: (CKA) Certified Kubernetes Administrator.
         cert: "certified-kubernetes-administrator.png"
 
+      - title: (CKAD) Certified Kubernetes Application Developer.
+        cert: "Certified-Kubernetes-Application-Developer.png"
+
       - title: Solution Architect Associate.
         cert: "aws-certified-solutions-architect-associate.png"
       
@@ -174,7 +177,12 @@ publications:
         conference: ""
       
       - title: MySQL Load Balancing with HAProxy
-        link: "hhttps://medium.com/@StephenKanyiW/mysql-load-balancing-with-haproxy-46b25b0295dd"
+        link: "https://medium.com/@StephenKanyiW/mysql-load-balancing-with-haproxy-46b25b0295dd"
+        authors: Stephen Kanyi
+        conference: ""
+
+       - title: Provision EKS with Terraform, Helm and a Load Balancer Controller
+        link: "https://www.stephenkanyi.com/devops/eks/aws/terraform/helm/2023/07/04/provision-fully-private-eks-cluster-with-terraform.html"
         authors: Stephen Kanyi
         conference: ""
 
@@ -184,9 +192,6 @@ skills:
     toolset:
       - name: Python & Flask & Fast API
         level: 98%
-
-      - name: React
-        level: 50%
       
       - name: AWS EKS and AWS ECS
         level: 95%
@@ -194,8 +199,17 @@ skills:
       - name: Ansible
         level: 70%
 
+       - name: Ansible
+        level: 80%
+
       - name: Elasticsearch, Logstash, and Kibana
         level: 75%
+
+       - name: Prometheus and Grafana
+        level: 75%
+
+      - name: React
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
