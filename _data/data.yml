@@ -181,7 +181,7 @@ publications:
         authors: Stephen Kanyi
         conference: ""
 
-       - title: Provision EKS with Terraform, Helm and a Load Balancer Controller
+      - title: Provision EKS with Terraform, Helm and a Load Balancer Controller
         link: "https://www.stephenkanyi.com/devops/eks/aws/terraform/helm/2023/07/04/provision-fully-private-eks-cluster-with-terraform.html"
         authors: Stephen Kanyi
         conference: ""
@@ -199,13 +199,13 @@ skills:
       - name: Ansible
         level: 70%
 
-       - name: Ansible
+      - name: Ansible
         level: 80%
 
       - name: Elasticsearch, Logstash, and Kibana
         level: 75%
 
-       - name: Prometheus and Grafana
+      - name: Prometheus and Grafana
         level: 75%
 
       - name: React
