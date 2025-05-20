@@ -8,13 +8,14 @@ sidebar:
 
     # Profile information
     name: Stephen Kanyi
-    tagline: DevOps Engineer
+    tagline: Site Reliability Engineer
+    location: Tokyo, Japan
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: stephenkanyi7@gmail.com
     phone: 000 000 0000
-    timezone: UTC/GMT +2
+    timezone: UTC/GMT +9
     citizenship:
     website: stephenkanyi.com #do not add http://
     linkedin: stephen-kanyi
@@ -27,7 +28,7 @@ sidebar:
     stack-overflow: '6581665/kanyi' # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: https://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -51,7 +52,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Skilled DevOps Engineer with 5+ years of hands-on experience and automating,
+      Skilled DevOps Engineer with 8+ years of hands-on experience and automating,
       and optimizing mission-critical deployments in AWS, leveraging configuration management,
       CI/CD, and DevOps processes.
 education:
@@ -67,8 +68,20 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Site Reliability Engineer
+        time: 2024 - Present
+        company: PayPay, Tokyo
+        details: |
+          I work as Site Reliability Engineer focusing on observability, scalability 
+          and capacity planning of the infrastructure. 
+            - Improved the observability of the infrastructure by creating Grafana 
+              dashboards for the services and creating alerts with Alertmanager.
+            - Designed and created capacity planning for Kafka clusters using 
+              the metrics collected from Prometheus to also predict future capcity growth.
+            - Setup Reverse Proxy for the services using OpenResty/Lua-improve the security of the services.and HAProxy to Nginx to help with
+              rate limiting and observerbilty of the APIs. 
       - role: DevOps Engineer
-        time: 2021 - Present
+        time: 2021 - 2024
         company: Amazon Web Services (AWS), Cape Town
         details: |
           I work as DevOps support Engineer focusing on containers technologies 
